@@ -1,0 +1,19 @@
+{
+  "name": "hockeytube",
+  "version": "1.0.0",
+  "description": "hi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eastar-DS/hockeytube.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eastar-DS/hockeytube/issues"
+  },
+  "homepage": "https://github.com/Eastar-DS/hockeytube#readme"
+}
